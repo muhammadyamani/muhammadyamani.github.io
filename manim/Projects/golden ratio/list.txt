@@ -1,0 +1,14 @@
+file '/Users/muhammad/manim/media/videos/cc/1080p60/besm.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/phived.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/phicreate.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/tri.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/face.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/images.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/onface.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/tri01face.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/pentaface.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/octaface.mp4'
+file '/Users/muhammad/manim/media/videos/cc/1080p60/closing.mp4'
+
+
+
