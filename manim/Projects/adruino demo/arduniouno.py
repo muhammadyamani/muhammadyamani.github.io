@@ -3,11 +3,6 @@ from yamanilib.ArduinoUno import *
 from scipy import signal
 from yamanilib.ResistorCreature import *
 
-Body_color="#0154a4"      #"#0f7391"
-Gray="#4d4d4d"
-Yellow_f="#948f72"
-Black_a="#333333"
-Silver="#b3b3b3"
 
 class NumberPlane1(NumberPlane):
     CONFIG = {
