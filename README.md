@@ -1,4 +1,4 @@
-# this is library to animate electronics in manim
+# This is library to animate electronics in manim
 
 
 
