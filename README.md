@@ -1,4 +1,4 @@
-# Electronicslibrary for manim
+# Electronics library for manim.
 
 
 
